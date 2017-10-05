@@ -67,7 +67,7 @@ gem 'simple_form'
 gem 'devise'
 
 # Carrierwave
-gem 'carrierwave', '~> 1.0'
+gem 'carrierwave'
 
 # Figaro
 gem 'figaro'
@@ -77,3 +77,6 @@ gem 'fog-aws'
 
 # MiniMagick
 gem 'mini_magick'
+
+# Carrierwave-aws
+gem 'carrierwave-aws'
