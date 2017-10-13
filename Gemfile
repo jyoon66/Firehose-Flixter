@@ -80,3 +80,6 @@ gem 'mini_magick'
 
 # Carrierwave-aws
 gem 'carrierwave-aws'
+
+# Stripe
+gem 'stripe'
